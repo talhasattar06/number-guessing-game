@@ -1,7 +1,7 @@
 {
   "name": "ts6-number-guessing-game",
-  "version": "1.0.0",
-  "description": "This is a CLI based number guessing game created with TypeScript, Node.js & Inquirer.",
+  "version": "2.0.0",
+  "description": "A CLI based Number Guessing Game created with TypeScript, Node.js, Inquirer & Chalk.",
   "main": "index.js",
   "type": "module",
   "publishConfig": {
